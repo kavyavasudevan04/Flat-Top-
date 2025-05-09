@@ -83,8 +83,9 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/78c5e3e5-330d-4848-92ab-113331a8055c)
 
-# Results
-  THUS THE FLAT-TOP SAMPLING IS PERFORMED USING PHYTON
+
 # Hardware experiment output waveform
 ![WhatsApp Image 2025-05-09 at 11 32 47_a9416fc5](https://github.com/user-attachments/assets/bd1ca599-2c24-4589-8ad5-8a1712f8e607)
+# Results
+  THUS THE FLAT-TOP SAMPLING IS PERFORMED USING PHYTON
 
